@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0 (Edition std-2)" version="26.1.1">
   <diagram name="Sayfa -1" id="iQPWYfrBBRe4Mx8D9Oix">
-    <mxGraphModel>
+    <mxGraphModel dx="1392" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HbQDSKcUCsTKI03xHTTf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="755" y="470" as="sourcePoint" />
+            <mxPoint x="755" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbQDSKcUCsTKI03xHTTf-4" value="İŞLEMCİ ÇEKİRDEĞİ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="350" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HbQDSKcUCsTKI03xHTTf-5" value="VERİ YOLU&lt;div&gt;(AXI4)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="550" y="500" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HbQDSKcUCsTKI03xHTTf-8" value="BELLEK YAPISI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="350" y="500" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HbQDSKcUCsTKI03xHTTf-9" value="HIZLANDIRICI&lt;div&gt;(LDPC)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="750" y="500" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HbQDSKcUCsTKI03xHTTf-10" value="ÇEVRE BİRİMLERİ&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="550" y="650" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HbQDSKcUCsTKI03xHTTf-16" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="625" y="470" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HbQDSKcUCsTKI03xHTTf-18" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#000000;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="522.5" y="542.5" width="20" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HbQDSKcUCsTKI03xHTTf-19" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#000000;rotation=91;" vertex="1" parent="1">
+          <mxGeometry x="727.5" y="542.46" width="20" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HbQDSKcUCsTKI03xHTTf-20" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="625" y="620" width="20" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
